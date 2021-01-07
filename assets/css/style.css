@@ -602,7 +602,7 @@ section {
   font-size: 18px;
 }
 
-.services .title a {
+.services .title {
   color: #111;
 }
 
@@ -613,6 +613,10 @@ section {
 }
 
 .services .icon-box:hover .title a, .services .icon-box:hover .description {
+  color: #fff;
+}
+
+.services .icon-box:hover .title {
   color: #fff;
 }
 
